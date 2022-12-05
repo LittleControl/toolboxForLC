@@ -1,5 +1,7 @@
 # test
 
+.DS_Store
+
 *.txt
 test.*
 temp.*
