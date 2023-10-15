@@ -10,6 +10,8 @@ temp/
 Test/
 Temp/
 
+tmp.*
+
 # Logs
 logs
 *.log
